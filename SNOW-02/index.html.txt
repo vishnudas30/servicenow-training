@@ -1,0 +1,100 @@
+<html>
+	<title>Linkedin style login page with registration form - coderglass</title>
+	<head> 
+	<link type="text/css" rel="stylesheet" href="index.css" /> 
+</head>
+<body>
+
+</script>
+	<div class="header">
+	</div>
+	<div class="header2">
+		<div id="pic" class="sub"> <img src="logo.png" /> </div>
+		<div id="pic1" class="sub">
+		<input type="mail" style="height:25px; width:200px;" name="email" placeholder="Email or phone number" />
+		</div>
+		<div id="pic2" class="sub">
+		<input type="password" style="height:25px; width:200px;" name="email" placeholder="Password" />
+		<span id="for">forget password? </span>
+			
+		</div>
+		<div id="submit1" class="sub">
+		<input type="submit" id="submit1" value="Sign in" />
+		</div>
+	</div>
+	<div class="main">
+	     <center> 
+		     <div class="sub1">
+		      <div id="foot"> Be great at what you do</div><br>
+			  <div id="foot1"> Get started - it's free.</div><br>
+			  <div id="foot2">First Name</div>
+			  <input type="text" name="first-name" style="width:350px; height:30px;" /><br><br>
+			  <div id="foot2">Last Name</div>
+			  <input type="text" name="last-name" style="width:350px; height:30px;" /><br><br>
+			  <div id="foot2">Email Name</div>
+			  <input type="mail" name="email" style="width:350px; height:30px;" /><br><br>
+			  <div id="foot2">Password (6 or more characters)</div>
+			  <input type="password" name="password" style="width:350px; height:30px;" /><br><br>
+			   <div id="foot3"><style="color:black"> By clicking Join now, you agree to LinkedIn's User <br>Agreement,Privacy policy, and Cookie Policy.</div>
+			  
+			  <input class="button2" type="button" value="join now" />
+		     </div>
+	     </center>
+	<div class="sub-footer">
+		 <center>
+		    <div class="sub2">
+			  Find a colleague: <input type="text" name="first-name" style="width:200px; height:25px;" /> 
+			  <input type="text" name="last-name" style="width:200px; height:25px;" />
+			  <input type="submit" id="submit2" value="Sign in" /><br>
+			  <p><span style="font-size:12px;">LinkedIn member directory:</span> <span style="color:#0e98f0; font-size:12px;">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z More | Browse by country</span> </p>
+			  <hr>
+			</div>
+		 </center>
+		 
+		 </div>
+ <div class="footer1">
+		
+		         <div class="sub0">
+			 <title>Genral</title>
+			  <p><span style="font-size:12px;"><li>sign up</li>
+			  <li>Help Center</li>
+			  <li>Blog</li>
+			  <li>About</li>
+			  <li>Press</li>
+			  <li>Career</li> 
+			  <li>Development</li></span></p>
+			  
+			</div>
+		 
+		         <div class="mul">
+			 <title>Browse Linkedin</title>
+			  <p><span style="font-size:12px;"><li>Learning</li>
+			  <li>mobile</li>
+			  <li>job</li>
+			  <li>profinder</li>
+			  </span></p>
+			  
+			</div>
+		 
+		 
+		 
+		 <div class="footer">
+		 <center>
+		    <div class="end">
+			 
+			  <p><span style="font-size:12px;"><li>LinkedIn © 2018</li>
+			  <li>User Agreement Privacy</li>
+			  <li>Policy Community</li>
+			  <li>Guidelines Cookie</li>
+			  <li>Policy Copyright</li>
+			  <li>Policy Guest</li> 
+			  <li>Controls Language</li></span></p>
+			  
+			</div>
+		 </center>
+		 
+		 </div>
+		 
+	</div>
+	
+</body>

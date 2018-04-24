@@ -1,0 +1,134 @@
+body{ 
+background:linear-gradient(to bottom right, white, #bcbdc4);
+height:750px;
+}
+.hader{
+	position:absolute;
+	width:100%;
+	height:70px;
+	top:0px;
+	left:0px;
+	color:white;
+	z-index:7;
+	font-family:verdana;
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+	
+}
+.header2{
+    position:absolute;
+	width:100%;
+	height:70px;
+	background:#333333;
+	top:0px;
+	left:0px;
+	color:white;
+	z-index:7;
+	font-family:verdana;
+	
+}
+#pic{
+	height:130px;
+	width:60px;
+	left:8%;
+	top:20px;
+	
+}
+#pic1{
+	left:43%;
+	top:10px;
+	height:25px;
+	width:220px;
+	
+}
+#pic2{
+	left:60%;
+	top:10px;
+	height:25px;
+	width:200px;
+}
+#nav{
+	right:11%;
+	color:white;
+	font-size:12px;
+	margin-top:5px;
+	
+}
+#submit1{ left:76%; top:12px; background:gray;
+ color:black;  z-index:20; 
+ height:23px; width:60px; cursor:pointer; 
+ }
+ .main{
+	position:absolute;
+	width:100%;
+	height:500px;
+	background-image:url("linkedin-back.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+	top:70px;
+	left:0px;
+	color:white;
+	z-index:20;
+	font-family:verdana;
+	 
+ }
+ .sub1{
+	 margin-top:20px;
+	 
+	 height:420px;
+	 width:350px;
+	 background:#efefef;
+	 padding-top:15px;
+	 padding-left:28px;
+	 padding-right:28px;
+	 padding-bottom:25px;
+ }
+ #foot{
+	 text-align:center;
+	 
+	 color:black;
+	 
+	 font-family:arial;
+	 font-size:20px;
+ }
+ #foot1{
+	 text-align:center;
+	 
+	 color:black;
+	 
+	 font-family:arial;
+	 font-size:16px;
+ }
+  #foot2{
+	 text-align:left;
+	 
+	 color:#888889;
+	 
+	 font-family:arial;
+	 font-size:12px;
+ }
+ #foot3{
+	 text-align:center;
+	 
+	 color:#888889;
+	 
+	 font-family:arial;
+	 font-size:12px;
+ }
+ 
+ .button2{ width:350px; height:35px; 
+ top:625px; background:dodgerblue; font-family:verdana;
+ font-size:16px; font-weight:bold; color:black; border-radius:5px 5px 5px 5px;
+ border-width: 1px; border-style:solid; border-color: gray;
+ cursor:pointer; outline:none; }
+ .sub-footer{
+	position:absolute;
+	width:100%;
+	height:150px;
+	background:#474644;
+    top:500px;
+	left:0px;
+	color:white;
+	z-index:20;
+	font-family:verdana;
+	 
+ }
