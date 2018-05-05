@@ -1,0 +1,17 @@
+<html>
+<body>
+<p>Search for an "e" in life are free!</p>
+<p id="p02">The best thing in the life are free!</p>
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    text = document.getElementById("p02").innerHTML;
+    document.getElementById("demo").innerHTML = /e/.test(text)
+}
+</script>
+
+</body>
+</html>

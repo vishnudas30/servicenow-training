@@ -1,0 +1,12 @@
+<html>
+<body>
+<h2>JavaScript string Properties</h2>
+<p>The lenth of this word:</p>
+<p id="demo"></p>
+
+<script>
+var txt = "JAYAGURU";
+document.getElementById("demo").innerHTML = txt.length;
+</script>
+</body>
+</html>
